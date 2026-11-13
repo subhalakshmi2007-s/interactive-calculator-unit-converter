@@ -1,0 +1,11 @@
+Project 01: Interactive Calculator & Unit Converter
+
+I developed an interactive calculator using Python. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+I also added three unit conversions:
+
+1. Kilometers to Miles
+2. Celsius to Fahrenheit
+3. Kilograms to Pounds
+
+The project uses Python functions, dictionaries, while loops, and try-except blocks for input validation. It includes a menu-driven interface that allows users to perform multiple operations until they choose to quit.
